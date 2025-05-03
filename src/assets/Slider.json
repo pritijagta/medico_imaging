@@ -1,0 +1,46 @@
+[
+    {
+      "id": 37,
+      "name": "Sonography Machine",
+      "description": "A high-performance sonography machine used for diagnostic imaging. Features include high resolution and real-time imaging for various applications.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/sonography.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS9zb25vZ3JhcGh5LmpwZyIsImlhdCI6MTc0NjI5MDU0OCwiZXhwIjoxNzc3ODI2NTQ4fQ.7FFTwhg5hdkFRtB9RqUBKh6I0Nkuvr0Uj3wlQBh7Ho8"
+    },
+    {
+      "id": 38,
+      "name": "CR Machines",
+      "description": "Computed Radiography (CR) systems for digital X-ray imaging, providing high-quality diagnostic images with quick processing times.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/cr.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS9jci5qcGciLCJpYXQiOjE3NDYyOTA1NzIsImV4cCI6MTc3NzgyNjU3Mn0.CjwInpDsz8YzZ-gyXf73MJdz-lzvSPNMr3389kzuqbQ"
+    },
+    {
+      "id": 39,
+      "name": "Hospital Equipment",
+      "description": "Comprehensive range of hospital equipment, including diagnostic imaging, monitoring, and therapeutic devices for healthcare facilities.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/hospital.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS9ob3NwaXRhbC5qcGciLCJpYXQiOjE3NDYyOTA1OTUsImV4cCI6MTc3NzgyNjU5NX0.azfcoRIIGefeXRcpIc-OEt167UkPX-l4myzdrDpGx8s"
+    },
+    {
+      "id": 40,
+      "name": "X-Ray Machine",
+      "description": "X-ray machine for a wide variety of diagnostic imaging needs, offering high-quality imaging with quick and efficient operation.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/xray.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS94cmF5LmpwZyIsImlhdCI6MTc0NjI5MDYxMCwiZXhwIjoxNzc3ODI2NjEwfQ.T88aaIma-HjkRmLjSLMvr3srcIwrEcP1xrIQnrkE4Bc"
+    },
+    {
+      "id": 41,
+      "name": "C Arm Machine",
+      "description": "A versatile imaging system used in surgical and diagnostic applications, providing real-time X-ray images for guidance during procedures.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/c-arm.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS9jLWFybS5qcGciLCJpYXQiOjE3NDYyOTA2MzAsImV4cCI6MTc3NzgyNjYzMH0.1xyy01LwRMeNSHj_YwvNWl5NUg_4n2zquGLHvNk9nPQ"
+    },
+    {
+      "id": 43,
+      "name": "Refurbished CT Scanner",
+      "description": "A refurbished CT scanner offering high-resolution imaging for detailed cross-sectional views of the body, suitable for a variety of diagnostic needs.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/sonography.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS9zb25vZ3JhcGh5LmpwZyIsImlhdCI6MTc0NjI5MDY3MSwiZXhwIjoxNzc3ODI2NjcxfQ.vqqe16AdyzSU0CM8_5BypZc1T0BLtQhYFZc4e_J57-o"
+    },
+
+    {
+      "id": 44,
+      "name": "Point Of Care Ultrasound",
+      "description": "Portable ultrasound system designed for use at the point of care, enabling fast and accurate diagnostics in emergency or critical settings.",
+      "image_url": "https://bjzcicppditpkyasaivs.supabase.co/storage/v1/object/sign/Medico_data/ultrasound.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5X2JmNzkxMDRmLTViN2YtNDFjNi04ZDcwLTUwZmI0ZGMxYjQ0MiJ9.eyJ1cmwiOiJNZWRpY29fZGF0YS91bHRyYXNvdW5kLmpwZyIsImlhdCI6MTc0NjI5MDY1NiwiZXhwIjoxNzc3ODI2NjU2fQ.QnzhmJ6rB3ejA0y7EZeRYKLj2EbSm85CO8QEseTB8CE"
+    }
+  ]
+  
