@@ -221,7 +221,14 @@ export default function AppAppBar() {
                 <MenuItem component={Link} to="/About">About Us</MenuItem>
                 <MenuItem component={Link} to="/ProductVideos">Product Videos</MenuItem>
                 <MenuItem component={Link} to="/testimonials">Testimonials</MenuItem>
-                <MenuItem component={Link} to="/Contact">Contact</MenuItem>
+                {/* <MenuItem component={Link} to="/Contact">Contact</MenuItem> */}
+                <MenuItem onClick={() => {
+                  handleModalOpen();
+                  setOpen(false); 
+                }}>
+                  Contact
+                </MenuItem>
+
                 <Divider sx={{ my: 3 }} />
                 <MenuItem>
                   <Button color="primary" variant="contained" fullWidth href='/Contact'>

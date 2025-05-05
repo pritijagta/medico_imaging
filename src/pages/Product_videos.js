@@ -13,7 +13,7 @@ const Product_videos = () => {
   const videos = [
     {
       title: 'Ge Logiq V5 Ultrasound Machine',
-      videoUrl: 'https://www.youtube.com/embed/pv8c2HC-rZc?si=W91t5DHG6sIR8cuL',
+      videoUrl: 'https://www.youtube.com/embed/sPrUzAdpbvg?si=lddOfLm--OQudjYy',
       description: 'products/37/Sonography-Machine',
     },
     {
